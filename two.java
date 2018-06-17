@@ -3,4 +3,4 @@
 void main()
 {
 	printf('enter a number of variables")
-
+tis code is changes from the repository
